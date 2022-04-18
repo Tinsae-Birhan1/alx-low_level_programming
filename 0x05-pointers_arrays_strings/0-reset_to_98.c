@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * reset_to_98 - main
@@ -9,3 +9,4 @@ void reset_to_98(int *n)
 {
 *n = 98;
 }
+
